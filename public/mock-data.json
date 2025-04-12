@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Camry",
+    "brand": "Toyota",
+    "price": 25000,
+    "fuelType": "Petrol",
+    "seatingCapacity": 5,
+    "image": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 2,
+    "name": "Tesla Model 3",
+    "brand": "Tesla",
+    "price": 48000,
+    "fuelType": "Electric",
+    "seatingCapacity": 5,
+    "image": "https://via.placeholder.com/300x200"
+  }
+  // ...add more car objects
+]
